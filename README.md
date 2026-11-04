@@ -12,7 +12,7 @@ Add to your `[Rule]` section. **Important:** place this rule *above* your `GEOIP
 ### Shadowrocket
 
 ```
-RULE-SET,https://raw.githubusercontent.com/pr0x77/ip-checkers/main/ip-checkers.list,🔍 CHECKERS
+https://raw.githubusercontent.com/pr0x77/ip-checkers/main/ip-checkers.list
 ```
 
 ### Surge
