@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,ping.space
+DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,todetect.net
 DOMAIN-SUFFIX,pixelscan.net
 DOMAIN-SUFFIX,ipx.ac
@@ -49,6 +50,7 @@ DOMAIN-SUFFIX,whatsmydns.net
 DOMAIN-SUFFIX,intodns.com
 DOMAIN-SUFFIX,dnsstuff.com
 DOMAIN-SUFFIX,viewdns.info
+DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,mxtoolbox.com
 
