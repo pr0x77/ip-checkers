@@ -2,7 +2,7 @@
 
 A curated list of popular IP, DNS-leak, WebRTC, browser-fingerprint, blacklist and speed-test checker websites — packaged as a ready-to-use `DOMAIN-SUFFIX` rule-set for proxy clients.
 
-[![Domains](https://img.shields.io/badge/domains-68-blue)](ip-checkers.list)
+[![Domains](https://img.shields.io/badge/domains-69-blue)](ip-checkers.list)
 [![Updated](https://img.shields.io/badge/updated-2026--11--04-lightgrey)](commits/main)
 
 ## Usage
@@ -38,7 +38,7 @@ Note: this defeats **client-side** detection via third-party checkers. If an app
 | Category | Domains | Examples |
 |---|---|---|
 | Whoami / IP info | 22 | 2ip, ifconfig.me, ipinfo.io, ip.sb, whoer |
-| DNS leak tests | 11 | dnsleaktest, dnscheck.tools, ipleak, browserleaks, ping.space |
+| DNS leak tests | 12 | dnsleaktest, dnscheck.tools, ipleak, browserleaks, ping.space |
 | DNS propagation / tools | 8 | dnschecker.org, addr.tools, whatsmydns, intodns, he.net |
 | Browser fingerprint / WebRTC | 7 | browserscan, amiunique, iphey, EFF Cover Your Tracks |
 | IPv6 check | 2 | test-ipv6.com, ipv6-test.com |
