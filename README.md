@@ -46,7 +46,7 @@ Note: this defeats **client-side** detection via third-party checkers. If an app
 | GeoIP lookup | 4 | ip2location, geoiptool, db-ip |
 | Speed / connectivity | 8 | speedtest, fast.com, check-host.net, ping.pe |
 | HTTP echo / headers | 1 | httpbin.org |
-| **Total** | **68** | |
+| **Total** | **69** | |
 
 ## Contributing
 
